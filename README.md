@@ -1,0 +1,1 @@
+A data mining project that analyzed financial data from 8,000 firms to predict bankruptcy risk. Used advanced models like logistic regression, gradient boosting, and neural networks, achieving 94% accuracy on the validation set.
